@@ -1,0 +1,47 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "Connect to MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "format": "prettier --write ./**/*.{js,jsx,ts,tsx,css,md,json}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricet2020/cse341-fab.git"
+  },
+  "author": "FT Banyingela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabricet2020/cse341-fab/issues"
+  },
+  "homepage": "https://github.com/fabricet2020/cse341-fab#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.6.2",
+    "swagger-autogen": "^2.21.1"
+  }
+}

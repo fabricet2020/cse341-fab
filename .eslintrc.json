@@ -1,0 +1,37 @@
+/* {
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+    }
+} 
+*/
+
+{
+  "extends": ["airbnb", "prettier", "plugin:node/recommend"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "func-names": "off",
+    "no-process-exi": "off",
+    "object-shorthand": "off",
+    "class-methods-use-this": "off",
+    "no-shadow": [
+      "error",
+      {
+        "builtinGlobals": false,
+        "hoist": "functions",
+        "allow": [],
+        "ignoreOnInitialization": false
+      }
+    ]
+  }
+}
