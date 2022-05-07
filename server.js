@@ -20,10 +20,10 @@ db.mongoose
   })
   .then(() => {
     app.listen(port, () => {
-      console.log(`Connected to Mongo DB and running on port number ${port}.`);
+      console.log(`DB Connected and server running on ${port}.`);
     });
   })
   .catch((err) => {
-    console.log('Connected to Mongo DB and running on port number', err);
+    console.log('Cannot connect to the database!', err);
     process.exit();
   });

@@ -1,5 +1,4 @@
 const db = require('../models');
-
 const Theme = db.theme;
 
 exports.getTheme = (req, res) => {

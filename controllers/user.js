@@ -1,5 +1,4 @@
 const db = require('../models');
-
 const User = db.user;
 const passwordUtil = require('../util/passwordComplexityCheck');
 

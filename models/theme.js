@@ -1,5 +1,4 @@
 module.exports = (mongoose) => {
-  
   const Theme = mongoose.model(
     'themes',
     mongoose.Schema({
