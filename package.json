@@ -10,7 +10,7 @@
     "lint:fix": "eslint --fix",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
   },
-  "author": "",
+  "author": "FT Banyingela",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",

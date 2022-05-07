@@ -81,3 +81,7 @@ npm i -S body-parser
     npm install cors
     npm install swagger-ui-express
     npm install mongoose
+
+# install
+
+npm install joi-password-complexity

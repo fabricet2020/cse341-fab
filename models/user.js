@@ -1,4 +1,5 @@
 module.exports = (mongoose) => {
+  
   const userSchema = mongoose.Schema({
     username: {
       type: String

@@ -1,0 +1,263 @@
+[{
+  "_id": "623a0015ddf8a035d9bc1432",
+  "info": {
+    "displayName": "Nathan Birch",
+    "email": "birchn@byui.edu",
+    "phoneNumber": "555-555-5555",
+    "currentLocation": "Rexburg, ID",
+    "openToNewOpportunities": true,
+    "profileIsPublic": true,
+    "theme_name": "Oh so Blue"
+  },
+  "profile": {
+    "experience": [
+      {
+        "jobTitle": "Professor",
+        "jobDescription": "I'm a professor at BYU-Idaho.",
+        "details": [
+          "I teach web development classes",
+          "I teach programming classes",
+          "I help students prepare for life after their education",
+          "Created courses focused on the MERN stack (MongoDB, Express.js, React, Node.js)"
+        ],
+        "dateStart": "08-16-18",
+        "dateEnd": "",
+        "company": "Brigham Young University - Idaho",
+        "location": "Rexburg, Idaho"
+      },
+      {
+        "jobTitle": "Instructional Specialist",
+        "jobDescription": "",
+        "details": [
+          "Specialized in the instruction of full-stack web development courses",
+          "Assisted students in learning the MERN stack"
+        ],
+        "dateStart": "09-01-21",
+        "dateEnd": "",
+        "company": "Trilogy Education",
+        "location": "Remote"
+      },
+      {
+        "jobTitle": "Software Developer",
+        "jobDescription": "",
+        "details": [
+          "Positioned as Dev Lead, managing several projects over an international team of 10+ engineers",
+          "Developed complex web applications utilizing Angular, AngularJS, HTML5, CSS3, REST and Java Spring Boot",
+          "Constructed innovative mobile applications for both Android and iOS in modern technologies such as Angular, Cordova, PhoneGap and Ionic"
+        ],
+        "dateStart": "04-15-16",
+        "dateEnd": "05-15-19",
+        "company": "General Motors",
+        "location": "Austin, Texas"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Boston University",
+        "programTitle": "Master's in Computer Information Systems - Security",
+        "programDescription": "",
+        "dateStart": "",
+        "dateEnd": "04-15-2019",
+        "completed": true,
+        "location": "Boston, Massachusetts",
+        "topics": [
+          "Business Data Communication and Networks",
+          "Database Design and Implementation for Business",
+          "Information Systems Analysis and Design",
+          "IT Strategy and Management",
+          "Information Structures with Python",
+          "Introduction to Probability and Statistics",
+          "Enterprise Cybersecurity Management",
+          "Enterprise Cyber Security",
+          "Database Security",
+          "Network Security"
+        ]
+      },
+      {
+        "institution": "Brigham Young University - Idaho",
+        "programTitle": "Bachelor's in Computer Information Technology",
+        "programDescription": "",
+        "dateStart": "",
+        "dateEnd": "04-15-2016",
+        "completed": true,
+        "location": "Rexburg, Idaho",
+        "topics": [
+          "Object Oriented Programming",
+          "Database Design & Development",
+          "System Analysis and Design",
+          "Database Administration",
+          "Systems Security",
+          "Mobile Application Development",
+          "Web Frontend Development",
+          "Web Backend Development",
+          "Networking and Network Design",
+          "Operating Systems"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "uChoose",
+        "description": "A project that will choose a random item from a list, let you save lists do a db and sort them.",
+        "dateStart": "02-10-22",
+        "dateEnd": "02-20-22",
+        "githubUrl": "",
+        "hostedUrl": "https://uchoose.netlify.app/",
+        "images": [
+          "https://nathanbirch.netlify.app/images/projects/picker.png"
+        ],
+        "skills": [
+          "React",
+          "Next.js",
+          "TypeScript",
+          "PWA",
+          "Next-Auth",
+          "MongoDB",
+          "Netlify"
+        ]
+      },
+      {
+        "title": "React Course Website",
+        "description": "A website that hosts content for students that also allows them to login and interact with content.",
+        "dateStart": "11-15-21",
+        "dateEnd": "12-15-21",
+        "githubUrl": "",
+        "hostedUrl": "https://byui-cse490.netlify.app/",
+        "images": [
+          "https://nathanbirch.netlify.app/images/projects/490r.png"
+        ],
+        "skills": [
+          "React",
+          "EasyBase",
+          "Auth",
+          "react-toastify",
+          "Netlify"
+        ]
+      },
+      {
+        "title": "Birch Resources",
+        "description": "A website that hosts tools to be used in the classroom. It links to the uChoose app, there is a project ideas section where students can look for ideas for their projects and create new ideas. More tools are always in progress.",
+        "dateStart": "01-20-22",
+        "dateEnd": "",
+        "githubUrl": "",
+        "hostedUrl": "https://byui-cse490.netlify.app/",
+        "images": [],
+        "skills": [
+          "React",
+          "EasyBase",
+          "Auth",
+          "react-toastify",
+          "Netlify"
+        ]
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "Web Design",
+      "HTML & CSS, Bootstrap",
+      "React",
+      "Next.js",
+      "Vue.js",
+      "Angular",
+      "Angular.js",
+      "TypeScript",
+      "Node.js",
+      "PHP",
+      "C#",
+      "Java",
+      "Python",
+      "MongoDB",
+      "Firebase",
+      "EasyBase",
+      "PostgreSQL",
+      "MySQL",
+      "PL/SQL",
+      "Native Android development",
+      "Progressive web apps"
+    ],
+    "references": [
+      {
+        "name": "Scott Burton",
+        "relationship": "Colleague",
+        "contactInfo": "burtons@byui.edu",
+        "yearsKnown": 3,
+        "knownFromWhere": "Teaching at BYU-Idaho"
+      }
+    ]
+  },
+  "username": "NathanBirch",
+  "password": "$2b$10$zwmGOFFNN8Um6amBtmgkN.ZBwJlc4GQItpG/4fTK1YR3xn.jdixTG",
+  "__v": 0
+},{
+  "_id": "623a0047ddf8a035d9bc1435",
+  "info": {
+    "displayName": "Sarah Birch",
+    "email": "sarah@gmail.com",
+    "phoneNumber": "208-890-9898",
+    "currentLocation": "Rexburg, Idaho",
+    "openToNewOpportunities": true,
+    "profileIsPublic": true,
+    "theme_name": "Nike Theme"
+  },
+  "profile": {
+    "experience": [
+      {
+        "jobTitle": "CNA",
+        "jobDescription": "Worked as CNA",
+        "details": [
+          "Helped people",
+          "Lot's of people"
+        ],
+        "dateStart": "08-10-2010",
+        "dateEnd": "08-10-2018",
+        "company": "Intermountain Healthcare",
+        "location": "Salt Lake City, UT"
+      }
+    ],
+    "education": [
+      {
+        "institution": "string",
+        "programTitle": "string",
+        "programDescription": "string",
+        "dateStart": "string",
+        "dateEnd": "string",
+        "completed": true,
+        "location": "string",
+        "topics": [
+          "string"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "string",
+        "description": "string",
+        "dateStart": "string",
+        "dateEnd": "string",
+        "githubUrl": "string",
+        "hostedUrl": "string",
+        "images": [
+          "string"
+        ],
+        "skills": [
+          "string"
+        ]
+      }
+    ],
+    "skills": [
+      "string"
+    ],
+    "references": [
+      {
+        "name": "string",
+        "relationship": "string",
+        "contactInfo": "string",
+        "yearsKnown": 0,
+        "knownFromWhere": "string"
+      }
+    ]
+  },
+  "username": "Sarah",
+  "password": "nice!2Fasdfasf",
+  "__v": 0
+}]

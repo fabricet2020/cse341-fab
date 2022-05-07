@@ -5,14 +5,14 @@
     "version": "1.0.0",
     "title": "Portfolio Builder",
     "contact": {
-      "email": "birchn@byui.edu"
+      "email": "tshiyoyi@gmail.com"
     },
     "license": {
       "name": "Apache 2.0",
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host": "birch-portfolio-builder.herokuapp.com",
+  "host": "cse341-fab.herokuapp.com",
   "basePath": "/",
   "tags": [
     {
