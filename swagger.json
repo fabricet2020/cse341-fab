@@ -5,7 +5,7 @@
     "description": "Temple API",
     "version": "1.0.0"
   },
-  "host": "birch-portfolio-builder.herokuapp.com",
+  "host": "cse341-fab.herokuapp.com",
   "basePath": "/",
   "schemes": ["https"],
   "paths": {
